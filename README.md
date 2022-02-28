@@ -8,4 +8,4 @@ You can see my password generator [here](https://esgarsad.github.io/password--ge
 
 
 
-![password](https://github.com/esgarsad/password--generator/blob/main/develop/pictures/password.JPG?raw=true)
+![password](https://github.com/esgarsad/password--generator/blob/main/pictures/password.JPG?raw=true)
