@@ -1,10 +1,9 @@
 // Assignment code here
 
-var number = "0123456789"
+var number = "01234567890123456789123456789"
 var lower = "abcdefghijklmnopqrstuvwxyz";
 var upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var special = "+_)(*&^%$#@!~=-;:?/><";
-var base = "";
 
 
 
@@ -26,6 +25,8 @@ var upperPrompt = window.prompt('Do you need your password to contain UPPERCASE 
 upperPrompt = upperPrompt.toLocaleLowerCase();
 var specialPrompt = window.prompt('Do you need your password to contain Special characters? Type "Y" or "N"');
 specialPrompt = specialPrompt.toLocaleLowerCase();
+
+var base = "";
 
 if (numberPrompt === "y") {
   base = base + number;
